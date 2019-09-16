@@ -6,5 +6,6 @@ namespace dieren
 {
     class Hond
     {
+        public int kaas = 3;
     }
 }

@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {},
+    "C:\\Users\\Rico\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\dieren\\dieren\\dieren.csproj",
+      "projectUniqueName": "C:\\Users\\Rico\\source\\Dieren\\dieren.csproj",
       "projectName": "dieren",
-      "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\dieren\\dieren\\dieren.csproj",
-      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\dieren\\dieren\\obj\\",
+      "projectPath": "C:\\Users\\Rico\\source\\Dieren\\dieren.csproj",
+      "packagesPath": "C:\\Users\\Rico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rico\\source\\Dieren\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
